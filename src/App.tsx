@@ -491,7 +491,7 @@ export default function App() {
             aria-label="Barangay M. Pandeño home"
           >
             <img
-              src="/assets/barangay-seal.png"
+              src="/public/assets/barangay-seal.png"
               alt="Barangay M. Pandeño official seal"
             />
             <div>
@@ -1147,7 +1147,7 @@ export default function App() {
         <div className="footer-main">
           <div className="container footer-grid">
             <div className="footer-brand">
-              <img src="/assets/barangay-seal.png" alt="" />
+              <img src="/public/assets/barangay-seal.png" alt="" />
               <div>
                 <span>Official Website</span>
                 <strong>Barangay M. Pandeño</strong>
